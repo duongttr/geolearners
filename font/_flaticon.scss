@@ -1,0 +1,427 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/06/2016 15:02
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-afghanistan:before { content: "\f100"; }
+.flaticon-albania:before { content: "\f101"; }
+.flaticon-algeria:before { content: "\f102"; }
+.flaticon-andorra:before { content: "\f103"; }
+.flaticon-angola:before { content: "\f104"; }
+.flaticon-antigua-and-barbuda:before { content: "\f105"; }
+.flaticon-argentina:before { content: "\f106"; }
+.flaticon-armenia:before { content: "\f107"; }
+.flaticon-aruba:before { content: "\f108"; }
+.flaticon-australia:before { content: "\f109"; }
+.flaticon-austria:before { content: "\f10a"; }
+.flaticon-azerbaijan:before { content: "\f10b"; }
+.flaticon-bahamas:before { content: "\f10c"; }
+.flaticon-bahrain:before { content: "\f10d"; }
+.flaticon-bangladesh:before { content: "\f10e"; }
+.flaticon-barbados:before { content: "\f10f"; }
+.flaticon-belarus-country:before { content: "\f110"; }
+.flaticon-belgium:before { content: "\f111"; }
+.flaticon-belize:before { content: "\f112"; }
+.flaticon-benin:before { content: "\f113"; }
+.flaticon-bermuda:before { content: "\f114"; }
+.flaticon-bhutan:before { content: "\f115"; }
+.flaticon-bolivia:before { content: "\f116"; }
+.flaticon-bosnia-and-herzegovina:before { content: "\f117"; }
+.flaticon-botswana:before { content: "\f118"; }
+.flaticon-brazil:before { content: "\f119"; }
+.flaticon-brunei:before { content: "\f11a"; }
+.flaticon-bulgaria:before { content: "\f11b"; }
+.flaticon-burkina-faso:before { content: "\f11c"; }
+.flaticon-burundi:before { content: "\f11d"; }
+.flaticon-cambodia:before { content: "\f11e"; }
+.flaticon-cameroon:before { content: "\f11f"; }
+.flaticon-canada:before { content: "\f120"; }
+.flaticon-cape-verde:before { content: "\f121"; }
+.flaticon-central-africa-republic:before { content: "\f122"; }
+.flaticon-chad:before { content: "\f123"; }
+.flaticon-chile:before { content: "\f124"; }
+.flaticon-china:before { content: "\f125"; }
+.flaticon-colombia:before { content: "\f126"; }
+.flaticon-comoros:before { content: "\f127"; }
+.flaticon-costa-rica:before { content: "\f128"; }
+.flaticon-croatia:before { content: "\f129"; }
+.flaticon-cuba:before { content: "\f12a"; }
+.flaticon-cyprus:before { content: "\f12b"; }
+.flaticon-czech-eepublic:before { content: "\f12c"; }
+.flaticon-democratic-republic-of-the-congo:before { content: "\f12d"; }
+.flaticon-denmark:before { content: "\f12e"; }
+.flaticon-djibouti:before { content: "\f12f"; }
+.flaticon-dominica:before { content: "\f130"; }
+.flaticon-dominican-republic:before { content: "\f131"; }
+.flaticon-east-timor:before { content: "\f132"; }
+.flaticon-ecuador:before { content: "\f133"; }
+.flaticon-egypt:before { content: "\f134"; }
+.flaticon-el-salvador:before { content: "\f135"; }
+.flaticon-equatorial-guinea:before { content: "\f136"; }
+.flaticon-eritrea:before { content: "\f137"; }
+.flaticon-estonia:before { content: "\f138"; }
+.flaticon-ethiopia:before { content: "\f139"; }
+.flaticon-finland:before { content: "\f13a"; }
+.flaticon-france:before { content: "\f13b"; }
+.flaticon-gabon:before { content: "\f13c"; }
+.flaticon-gambia:before { content: "\f13d"; }
+.flaticon-georgia:before { content: "\f13e"; }
+.flaticon-germany:before { content: "\f13f"; }
+.flaticon-ghana:before { content: "\f140"; }
+.flaticon-greece:before { content: "\f141"; }
+.flaticon-greenland:before { content: "\f142"; }
+.flaticon-grenada:before { content: "\f143"; }
+.flaticon-guatemala:before { content: "\f144"; }
+.flaticon-guinea:before { content: "\f145"; }
+.flaticon-guinea-bissau:before { content: "\f146"; }
+.flaticon-guyana:before { content: "\f147"; }
+.flaticon-haiti:before { content: "\f148"; }
+.flaticon-honduras:before { content: "\f149"; }
+.flaticon-hungary:before { content: "\f14a"; }
+.flaticon-iceland:before { content: "\f14b"; }
+.flaticon-india:before { content: "\f14c"; }
+.flaticon-indonesia:before { content: "\f14d"; }
+.flaticon-iran:before { content: "\f14e"; }
+.flaticon-iraq:before { content: "\f14f"; }
+.flaticon-ireland:before { content: "\f150"; }
+.flaticon-israel:before { content: "\f151"; }
+.flaticon-italy:before { content: "\f152"; }
+.flaticon-ivory-coast:before { content: "\f153"; }
+.flaticon-jamaica:before { content: "\f154"; }
+.flaticon-japan:before { content: "\f155"; }
+.flaticon-jordan:before { content: "\f156"; }
+.flaticon-kazakhstan:before { content: "\f157"; }
+.flaticon-kenya:before { content: "\f158"; }
+.flaticon-kosovo:before { content: "\f159"; }
+.flaticon-kuwait:before { content: "\f15a"; }
+.flaticon-kyrgyzstan:before { content: "\f15b"; }
+.flaticon-laos:before { content: "\f15c"; }
+.flaticon-latvia:before { content: "\f15d"; }
+.flaticon-lebanon:before { content: "\f15e"; }
+.flaticon-lesotho:before { content: "\f15f"; }
+.flaticon-liberia:before { content: "\f160"; }
+.flaticon-libya:before { content: "\f161"; }
+.flaticon-liechstenstein:before { content: "\f162"; }
+.flaticon-lithuania:before { content: "\f163"; }
+.flaticon-luxembourg:before { content: "\f164"; }
+.flaticon-macedonia:before { content: "\f165"; }
+.flaticon-madagascar:before { content: "\f166"; }
+.flaticon-malawi:before { content: "\f167"; }
+.flaticon-malaysia:before { content: "\f168"; }
+.flaticon-mali:before { content: "\f169"; }
+.flaticon-malta:before { content: "\f16a"; }
+.flaticon-martinique:before { content: "\f16b"; }
+.flaticon-mauritania:before { content: "\f16c"; }
+.flaticon-mauritius:before { content: "\f16d"; }
+.flaticon-mexico:before { content: "\f16e"; }
+.flaticon-moldova:before { content: "\f16f"; }
+.flaticon-monaco:before { content: "\f170"; }
+.flaticon-mongolia:before { content: "\f171"; }
+.flaticon-montenegro:before { content: "\f172"; }
+.flaticon-montserrat:before { content: "\f173"; }
+.flaticon-morocco:before { content: "\f174"; }
+.flaticon-mozambique:before { content: "\f175"; }
+.flaticon-myanmar:before { content: "\f176"; }
+.flaticon-namibia:before { content: "\f177"; }
+.flaticon-nauru:before { content: "\f178"; }
+.flaticon-nepal:before { content: "\f179"; }
+.flaticon-netherlands:before { content: "\f17a"; }
+.flaticon-nicaragua:before { content: "\f17b"; }
+.flaticon-niger:before { content: "\f17c"; }
+.flaticon-nigeria:before { content: "\f17d"; }
+.flaticon-north-korea:before { content: "\f17e"; }
+.flaticon-norway:before { content: "\f17f"; }
+.flaticon-oman:before { content: "\f180"; }
+.flaticon-pakistan:before { content: "\f181"; }
+.flaticon-palau:before { content: "\f182"; }
+.flaticon-palestine:before { content: "\f183"; }
+.flaticon-panama:before { content: "\f184"; }
+.flaticon-papua-new-guinea:before { content: "\f185"; }
+.flaticon-paraguay:before { content: "\f186"; }
+.flaticon-peru:before { content: "\f187"; }
+.flaticon-philippines:before { content: "\f188"; }
+.flaticon-poland:before { content: "\f189"; }
+.flaticon-portugal:before { content: "\f18a"; }
+.flaticon-puerto-rico:before { content: "\f18b"; }
+.flaticon-qatar:before { content: "\f18c"; }
+.flaticon-republic-of-the-congo:before { content: "\f18d"; }
+.flaticon-romania:before { content: "\f18e"; }
+.flaticon-russia:before { content: "\f18f"; }
+.flaticon-rwanda:before { content: "\f190"; }
+.flaticon-saint-kitts-and-nevis:before { content: "\f191"; }
+.flaticon-saint-lucia:before { content: "\f192"; }
+.flaticon-saint-vincent-and-the-grenadines:before { content: "\f193"; }
+.flaticon-san-marino:before { content: "\f194"; }
+.flaticon-saudi-arabia:before { content: "\f195"; }
+.flaticon-senegal:before { content: "\f196"; }
+.flaticon-serbia:before { content: "\f197"; }
+.flaticon-seychelles:before { content: "\f198"; }
+.flaticon-sierra-leone:before { content: "\f199"; }
+.flaticon-singapore:before { content: "\f19a"; }
+.flaticon-slovakia:before { content: "\f19b"; }
+.flaticon-slovenia:before { content: "\f19c"; }
+.flaticon-somalia:before { content: "\f19d"; }
+.flaticon-somaliland:before { content: "\f19e"; }
+.flaticon-south-africa:before { content: "\f19f"; }
+.flaticon-south-korea:before { content: "\f1a0"; }
+.flaticon-south-sudan:before { content: "\f1a1"; }
+.flaticon-spain:before { content: "\f1a2"; }
+.flaticon-sri-lanka:before { content: "\f1a3"; }
+.flaticon-sudan:before { content: "\f1a4"; }
+.flaticon-suriname:before { content: "\f1a5"; }
+.flaticon-swaziland:before { content: "\f1a6"; }
+.flaticon-sweden:before { content: "\f1a7"; }
+.flaticon-switzerland:before { content: "\f1a8"; }
+.flaticon-syria:before { content: "\f1a9"; }
+.flaticon-taiwan:before { content: "\f1aa"; }
+.flaticon-tajikistan:before { content: "\f1ab"; }
+.flaticon-tanzania:before { content: "\f1ac"; }
+.flaticon-thailand:before { content: "\f1ad"; }
+.flaticon-tog:before { content: "\f1ae"; }
+.flaticon-tonga:before { content: "\f1af"; }
+.flaticon-trinidad-and-tobago:before { content: "\f1b0"; }
+.flaticon-tunisia:before { content: "\f1b1"; }
+.flaticon-turkey:before { content: "\f1b2"; }
+.flaticon-turkmenistan:before { content: "\f1b3"; }
+.flaticon-uganda:before { content: "\f1b4"; }
+.flaticon-ukraine:before { content: "\f1b5"; }
+.flaticon-united-arab-emirates:before { content: "\f1b6"; }
+.flaticon-united-kingdom:before { content: "\f1b7"; }
+.flaticon-united-states:before { content: "\f1b8"; }
+.flaticon-uruguay:before { content: "\f1b9"; }
+.flaticon-uzbekistan:before { content: "\f1ba"; }
+.flaticon-vanuatu:before { content: "\f1bb"; }
+.flaticon-vatican:before { content: "\f1bc"; }
+.flaticon-venezuela:before { content: "\f1bd"; }
+.flaticon-vietnam:before { content: "\f1be"; }
+.flaticon-yemen:before { content: "\f1bf"; }
+.flaticon-zambia:before { content: "\f1c0"; }
+.flaticon-zimbabwe:before { content: "\f1c1"; }
+    
+    $font-Flaticon-afghanistan: "\f100";
+    $font-Flaticon-albania: "\f101";
+    $font-Flaticon-algeria: "\f102";
+    $font-Flaticon-andorra: "\f103";
+    $font-Flaticon-angola: "\f104";
+    $font-Flaticon-antigua-and-barbuda: "\f105";
+    $font-Flaticon-argentina: "\f106";
+    $font-Flaticon-armenia: "\f107";
+    $font-Flaticon-aruba: "\f108";
+    $font-Flaticon-australia: "\f109";
+    $font-Flaticon-austria: "\f10a";
+    $font-Flaticon-azerbaijan: "\f10b";
+    $font-Flaticon-bahamas: "\f10c";
+    $font-Flaticon-bahrain: "\f10d";
+    $font-Flaticon-bangladesh: "\f10e";
+    $font-Flaticon-barbados: "\f10f";
+    $font-Flaticon-belarus-country: "\f110";
+    $font-Flaticon-belgium: "\f111";
+    $font-Flaticon-belize: "\f112";
+    $font-Flaticon-benin: "\f113";
+    $font-Flaticon-bermuda: "\f114";
+    $font-Flaticon-bhutan: "\f115";
+    $font-Flaticon-bolivia: "\f116";
+    $font-Flaticon-bosnia-and-herzegovina: "\f117";
+    $font-Flaticon-botswana: "\f118";
+    $font-Flaticon-brazil: "\f119";
+    $font-Flaticon-brunei: "\f11a";
+    $font-Flaticon-bulgaria: "\f11b";
+    $font-Flaticon-burkina-faso: "\f11c";
+    $font-Flaticon-burundi: "\f11d";
+    $font-Flaticon-cambodia: "\f11e";
+    $font-Flaticon-cameroon: "\f11f";
+    $font-Flaticon-canada: "\f120";
+    $font-Flaticon-cape-verde: "\f121";
+    $font-Flaticon-central-africa-republic: "\f122";
+    $font-Flaticon-chad: "\f123";
+    $font-Flaticon-chile: "\f124";
+    $font-Flaticon-china: "\f125";
+    $font-Flaticon-colombia: "\f126";
+    $font-Flaticon-comoros: "\f127";
+    $font-Flaticon-costa-rica: "\f128";
+    $font-Flaticon-croatia: "\f129";
+    $font-Flaticon-cuba: "\f12a";
+    $font-Flaticon-cyprus: "\f12b";
+    $font-Flaticon-czech-eepublic: "\f12c";
+    $font-Flaticon-democratic-republic-of-the-congo: "\f12d";
+    $font-Flaticon-denmark: "\f12e";
+    $font-Flaticon-djibouti: "\f12f";
+    $font-Flaticon-dominica: "\f130";
+    $font-Flaticon-dominican-republic: "\f131";
+    $font-Flaticon-east-timor: "\f132";
+    $font-Flaticon-ecuador: "\f133";
+    $font-Flaticon-egypt: "\f134";
+    $font-Flaticon-el-salvador: "\f135";
+    $font-Flaticon-equatorial-guinea: "\f136";
+    $font-Flaticon-eritrea: "\f137";
+    $font-Flaticon-estonia: "\f138";
+    $font-Flaticon-ethiopia: "\f139";
+    $font-Flaticon-finland: "\f13a";
+    $font-Flaticon-france: "\f13b";
+    $font-Flaticon-gabon: "\f13c";
+    $font-Flaticon-gambia: "\f13d";
+    $font-Flaticon-georgia: "\f13e";
+    $font-Flaticon-germany: "\f13f";
+    $font-Flaticon-ghana: "\f140";
+    $font-Flaticon-greece: "\f141";
+    $font-Flaticon-greenland: "\f142";
+    $font-Flaticon-grenada: "\f143";
+    $font-Flaticon-guatemala: "\f144";
+    $font-Flaticon-guinea: "\f145";
+    $font-Flaticon-guinea-bissau: "\f146";
+    $font-Flaticon-guyana: "\f147";
+    $font-Flaticon-haiti: "\f148";
+    $font-Flaticon-honduras: "\f149";
+    $font-Flaticon-hungary: "\f14a";
+    $font-Flaticon-iceland: "\f14b";
+    $font-Flaticon-india: "\f14c";
+    $font-Flaticon-indonesia: "\f14d";
+    $font-Flaticon-iran: "\f14e";
+    $font-Flaticon-iraq: "\f14f";
+    $font-Flaticon-ireland: "\f150";
+    $font-Flaticon-israel: "\f151";
+    $font-Flaticon-italy: "\f152";
+    $font-Flaticon-ivory-coast: "\f153";
+    $font-Flaticon-jamaica: "\f154";
+    $font-Flaticon-japan: "\f155";
+    $font-Flaticon-jordan: "\f156";
+    $font-Flaticon-kazakhstan: "\f157";
+    $font-Flaticon-kenya: "\f158";
+    $font-Flaticon-kosovo: "\f159";
+    $font-Flaticon-kuwait: "\f15a";
+    $font-Flaticon-kyrgyzstan: "\f15b";
+    $font-Flaticon-laos: "\f15c";
+    $font-Flaticon-latvia: "\f15d";
+    $font-Flaticon-lebanon: "\f15e";
+    $font-Flaticon-lesotho: "\f15f";
+    $font-Flaticon-liberia: "\f160";
+    $font-Flaticon-libya: "\f161";
+    $font-Flaticon-liechstenstein: "\f162";
+    $font-Flaticon-lithuania: "\f163";
+    $font-Flaticon-luxembourg: "\f164";
+    $font-Flaticon-macedonia: "\f165";
+    $font-Flaticon-madagascar: "\f166";
+    $font-Flaticon-malawi: "\f167";
+    $font-Flaticon-malaysia: "\f168";
+    $font-Flaticon-mali: "\f169";
+    $font-Flaticon-malta: "\f16a";
+    $font-Flaticon-martinique: "\f16b";
+    $font-Flaticon-mauritania: "\f16c";
+    $font-Flaticon-mauritius: "\f16d";
+    $font-Flaticon-mexico: "\f16e";
+    $font-Flaticon-moldova: "\f16f";
+    $font-Flaticon-monaco: "\f170";
+    $font-Flaticon-mongolia: "\f171";
+    $font-Flaticon-montenegro: "\f172";
+    $font-Flaticon-montserrat: "\f173";
+    $font-Flaticon-morocco: "\f174";
+    $font-Flaticon-mozambique: "\f175";
+    $font-Flaticon-myanmar: "\f176";
+    $font-Flaticon-namibia: "\f177";
+    $font-Flaticon-nauru: "\f178";
+    $font-Flaticon-nepal: "\f179";
+    $font-Flaticon-netherlands: "\f17a";
+    $font-Flaticon-nicaragua: "\f17b";
+    $font-Flaticon-niger: "\f17c";
+    $font-Flaticon-nigeria: "\f17d";
+    $font-Flaticon-north-korea: "\f17e";
+    $font-Flaticon-norway: "\f17f";
+    $font-Flaticon-oman: "\f180";
+    $font-Flaticon-pakistan: "\f181";
+    $font-Flaticon-palau: "\f182";
+    $font-Flaticon-palestine: "\f183";
+    $font-Flaticon-panama: "\f184";
+    $font-Flaticon-papua-new-guinea: "\f185";
+    $font-Flaticon-paraguay: "\f186";
+    $font-Flaticon-peru: "\f187";
+    $font-Flaticon-philippines: "\f188";
+    $font-Flaticon-poland: "\f189";
+    $font-Flaticon-portugal: "\f18a";
+    $font-Flaticon-puerto-rico: "\f18b";
+    $font-Flaticon-qatar: "\f18c";
+    $font-Flaticon-republic-of-the-congo: "\f18d";
+    $font-Flaticon-romania: "\f18e";
+    $font-Flaticon-russia: "\f18f";
+    $font-Flaticon-rwanda: "\f190";
+    $font-Flaticon-saint-kitts-and-nevis: "\f191";
+    $font-Flaticon-saint-lucia: "\f192";
+    $font-Flaticon-saint-vincent-and-the-grenadines: "\f193";
+    $font-Flaticon-san-marino: "\f194";
+    $font-Flaticon-saudi-arabia: "\f195";
+    $font-Flaticon-senegal: "\f196";
+    $font-Flaticon-serbia: "\f197";
+    $font-Flaticon-seychelles: "\f198";
+    $font-Flaticon-sierra-leone: "\f199";
+    $font-Flaticon-singapore: "\f19a";
+    $font-Flaticon-slovakia: "\f19b";
+    $font-Flaticon-slovenia: "\f19c";
+    $font-Flaticon-somalia: "\f19d";
+    $font-Flaticon-somaliland: "\f19e";
+    $font-Flaticon-south-africa: "\f19f";
+    $font-Flaticon-south-korea: "\f1a0";
+    $font-Flaticon-south-sudan: "\f1a1";
+    $font-Flaticon-spain: "\f1a2";
+    $font-Flaticon-sri-lanka: "\f1a3";
+    $font-Flaticon-sudan: "\f1a4";
+    $font-Flaticon-suriname: "\f1a5";
+    $font-Flaticon-swaziland: "\f1a6";
+    $font-Flaticon-sweden: "\f1a7";
+    $font-Flaticon-switzerland: "\f1a8";
+    $font-Flaticon-syria: "\f1a9";
+    $font-Flaticon-taiwan: "\f1aa";
+    $font-Flaticon-tajikistan: "\f1ab";
+    $font-Flaticon-tanzania: "\f1ac";
+    $font-Flaticon-thailand: "\f1ad";
+    $font-Flaticon-tog: "\f1ae";
+    $font-Flaticon-tonga: "\f1af";
+    $font-Flaticon-trinidad-and-tobago: "\f1b0";
+    $font-Flaticon-tunisia: "\f1b1";
+    $font-Flaticon-turkey: "\f1b2";
+    $font-Flaticon-turkmenistan: "\f1b3";
+    $font-Flaticon-uganda: "\f1b4";
+    $font-Flaticon-ukraine: "\f1b5";
+    $font-Flaticon-united-arab-emirates: "\f1b6";
+    $font-Flaticon-united-kingdom: "\f1b7";
+    $font-Flaticon-united-states: "\f1b8";
+    $font-Flaticon-uruguay: "\f1b9";
+    $font-Flaticon-uzbekistan: "\f1ba";
+    $font-Flaticon-vanuatu: "\f1bb";
+    $font-Flaticon-vatican: "\f1bc";
+    $font-Flaticon-venezuela: "\f1bd";
+    $font-Flaticon-vietnam: "\f1be";
+    $font-Flaticon-yemen: "\f1bf";
+    $font-Flaticon-zambia: "\f1c0";
+    $font-Flaticon-zimbabwe: "\f1c1";
